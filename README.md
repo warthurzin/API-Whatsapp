@@ -36,12 +36,12 @@ Um formulário de contato simples e elegante que permite ao usuário preencher d
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/formulario-whatsapp.git
+   https://github.com/warthurzin/API-Whatsapp.git
    ```
 
 2. **Entre no diretório**
    ```bash
-   cd formulario-whatsapp
+   cd API-Whatsapp
    ```
 
 3. **Abra o arquivo HTML**
